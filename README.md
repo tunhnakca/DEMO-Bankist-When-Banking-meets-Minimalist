@@ -10,4 +10,4 @@ The Bankist app is a minimalist banking website developed with a focus on user e
 - **Technologies Used**: HTML, CSS, JavaScript.
 
 This project was developed following a course by jonasschmedtmann.
-Live Demo: https://bankist-dom.netlify.app
+Website link: https://bankist-dom.netlify.app
